@@ -51,5 +51,5 @@ curl -i http://localhost:8000/protected/profile -H "Authorization: Bearer <acces
 ## Swagger UI
 
 ![Swagger UI](docs/swagger-ui.png)
+<img width="833" height="442" alt="image" src="https://github.com/user-attachments/assets/7406160d-18a1-411a-93c4-cfe93bafe70f" />
 
-*(Add your screenshot of `/docs` showing the lock icons here.)*
